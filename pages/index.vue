@@ -77,6 +77,14 @@ export default {
           repository_link: "https://github.com/natanhp/Kouvee-Petshop-Web-Frond-End",
           image: "kouvee-petshop-frontend.png"
         },
+        {
+          id: 3,
+          name: "Kouvee Petshop Desktop Javadoc",
+          description: "Auto-generated Javadoc of Kouvee Petshop Desktop Application.",
+          link: "https://natanhp.github.io/Kouvee-Petshop-Desktop-Doc/",
+          repository_link: "https://github.com/natanhp/Kouvee-Petshop-Desktop",
+          image: "kouvee-petshop-dekstop-doc.png"
+        },
       ],
     }
   },
